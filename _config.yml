@@ -1,5 +1,5 @@
 title: "My Professional Portfolio"
-description: "Showcasing my projects in AI, DevOps, Cloud, Automation, and Web"
+description: "Showcasing my AI, DevOps, Cloud, Automation, and Web projects"
 theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
