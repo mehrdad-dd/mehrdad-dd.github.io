@@ -1,4 +1,17 @@
 title: "My Professional Portfolio"
-description: "A showcase of my projects in AI, DevOps, Cloud, Automation, and Web"
-theme: Minimal Mistakes
-paginate: 10
+description: "Showcasing my projects in AI, DevOps, Cloud, Automation, and Web"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: /:categories/:title/
+collections:
+  projects:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single-project"
