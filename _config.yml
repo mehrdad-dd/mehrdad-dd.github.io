@@ -11,15 +11,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
 
-permalink: /:categories/:title/
-
 collections:
   projects:
     output: true
+    permalink: /projects/:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "projects"
     values:
