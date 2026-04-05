@@ -1,1 +1,4 @@
-hi
+title: "My Professional Portfolio"
+description: "A showcase of my projects in AI, DevOps, Cloud, Automation, and Web"
+theme: minima
+paginate: 10
