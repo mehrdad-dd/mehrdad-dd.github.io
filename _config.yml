@@ -1,22 +1,26 @@
 title: "My Professional Portfolio"
 description: "Showcasing my AI, DevOps, Cloud, Automation, and Web projects"
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+
 permalink: /:categories/:title/
+
 collections:
   projects:
     output: true
+
 defaults:
   -
     scope:
       path: ""
       type: "projects"
     values:
-      layout: "single-project"
+      layout: "single"
