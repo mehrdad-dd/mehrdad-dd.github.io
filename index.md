@@ -1,4 +1,22 @@
 ---
+layout: home
+title: "Welcome to My Portfolio"
+permalink: /
+---
+
+# 🚀 Welcome to My Professional Portfolio
+
+Here are my projects organized by categories. Click on each project to see details.
+
+{% for project in site.projects %}
+## {{ project.category | capitalize }} Projects
+
+### {{ project.title }}
+![demo]({{ project.image }})
+**Description:** {{ project.description }}  
+[View Repository]({{ project.repo }})
+
+{% endfor %}---
 layout: default
 title: "My Portfolio"
 ---
