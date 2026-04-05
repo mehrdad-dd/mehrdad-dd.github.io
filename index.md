@@ -8,15 +8,20 @@ permalink: /
 
 Here are my projects organized by categories. Click on each project to see details.
 
-{% for project in site.projects %}
-## {{ project.category | capitalize }} Projects
+{% assign grouped_projects = site.projects | group_by: "category" %}
 
+{% for group in grouped_projects %}
+## {{ group.name | capitalize }} Projects
+
+{% for project in group.items %}
 ### {{ project.title }}
 ![demo]({{ project.image }})
 **Description:** {{ project.description }}  
 [View Repository]({{ project.repo }})
 
-{% endfor %}---
+{% endfor %}
+{% endfor %}
+
 layout: default
 title: "My Portfolio"
 ---
