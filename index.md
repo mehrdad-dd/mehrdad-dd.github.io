@@ -8,9 +8,9 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| 🎙️ Whisper Transcription | Speech-to-text using OpenAI Whisper with GPU support | ![demo](assets/ai/whisper-demo.gif) | [Repo](https://github.com/your-username/whisper-transcription) |
-| 🖼️ Image Processing | Image classification and processing with deep learning | ![demo](assets/ai/image-demo.gif) | [Repo](https://github.com/your-username/image-processing) |
-| 🤖 Chatbot | NLP-based conversational agent | ![demo](assets/ai/chatbot-demo.gif) | [Repo](https://github.com/your-username/chatbot) |
+| 🎙️ Whisper Transcription | Speech-to-text using OpenAI Whisper with GPU support | ![demo](assets/ai/whisper-demo.gif) | [Repo](https://github.com/mehrdad-dd/whisper-transcription) |
+| 🖼️ Image Processing | Image classification and processing with deep learning | ![demo](assets/ai/image-demo.gif) | [Repo](https://github.com/mehrdad-dd/image-processing) |
+| 🤖 Chatbot | NLP-based conversational agent | ![demo](assets/ai/chatbot-demo.gif) | [Repo](https://github.com/mehrdad-dd/chatbot) |
 
 ---
 
@@ -18,8 +18,8 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| 🐳 Docker Setup | Containerization and deployment pipelines | ![demo](assets/devops/docker-demo.gif) | [Repo](https://github.com/your-username/docker-project) |
-| ☸️ Kubernetes CI/CD | Kubernetes clusters with CI/CD integration | ![demo](assets/devops/k8s-demo.gif) | [Repo](https://github.com/your-username/k8s-project) |
+| 🐳 Docker Setup | Containerization and deployment pipelines | ![demo](assets/devops/docker-demo.gif) | [Repo](https://github.com/mehrdad-dd/docker-project) |
+| ☸️ Kubernetes CI/CD | Kubernetes clusters with CI/CD integration | ![demo](assets/devops/k8s-demo.gif) | [Repo](https://github.com/mehrdad-dd/k8s-project) |
 
 ---
 
@@ -27,8 +27,8 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| ☁️ AWS Infrastructure | Cloud deployments on Amazon Web Services | ![demo](assets/cloud/aws-demo.gif) | [Repo](https://github.com/your-username/aws-project) |
-| 🌐 Azure Services | Deploying apps on Microsoft Azure | ![demo](assets/cloud/azure-demo.gif) | [Repo](https://github.com/your-username/azure-project) |
+| ☁️ AWS Infrastructure | Cloud deployments on Amazon Web Services | ![demo](assets/cloud/aws-demo.gif) | [Repo](https://github.com/mehrdad-dd/aws-project) |
+| 🌐 Azure Services | Deploying apps on Microsoft Azure | ![demo](assets/cloud/azure-demo.gif) | [Repo](https://github.com/mehrdad-dd/azure-project) |
 
 ---
 
@@ -36,8 +36,8 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| 🐍 Python Automation | Scripts and automation workflows | ![demo](assets/automation/python-demo.gif) | [Repo](https://github.com/your-username/python-automation) |
-| ⚡ Ansible / PowerShell | Server and workflow automation | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/your-username/ansible-project) |
+| 🐍 Python Automation | Scripts and automation workflows | ![demo](assets/automation/python-demo.gif) | [Repo](https://github.com/mehrdad-dd/python-automation) |
+| ⚡ Ansible / PowerShell | Server and workflow automation | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible-project) |
 
 ---
 
@@ -45,8 +45,8 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| ⚛️ React App | Frontend projects built with React | ![demo](assets/web/react-demo.gif) | [Repo](https://github.com/your-username/react-project) |
-| ⚡ Vite Project | Modern web apps with Vite | ![demo](assets/web/vite-demo.gif) | [Repo](https://github.com/your-username/vite-project) |
+| ⚛️ React App | Frontend projects built with React | ![demo](assets/web/react-demo.gif) | [Repo](https://github.com/mehrdad-dd/react-project) |
+| ⚡ Vite Project | Modern web apps with Vite | ![demo](assets/web/vite-demo.gif) | [Repo](https://github.com/mehrdad-dd/vite-project) |
 
 ---
 
