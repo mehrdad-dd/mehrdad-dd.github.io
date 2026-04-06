@@ -8,9 +8,9 @@ Here you can find my projects categorized by skill area.
 
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
-| 🎙️ Whisper Transcription | Speech-to-text using OpenAI Whisper with GPU support | ![demo](assets/ai/whisper-demo.gif) | [Repo](https://github.com/mehrdad-dd/whisper-transcription) |
+| 🎙️ Whisper Transcription | Speech-to-text using OpenAI Whisper with GPU support | ![demo](assets/ai/whisper-demo.gif) | [Repo](https://github.com/mehrdad-dd/Whisper_for_Colab) |
 | 🖼️ Image Processing | Image classification and processing with deep learning | ![demo](assets/ai/image-demo.gif) | [Repo](https://github.com/mehrdad-dd/image-processing) |
-| 🤖 Chatbot | NLP-based conversational agent | ![demo](assets/ai/chatbot-demo.gif) | [Repo](https://github.com/mehrdad-dd/chatbot) |
+| 🤖 Chatbot | NLP-based conversational agent | ![demo](assets/ai/chatbot-demo.gif) | [Repo](https://github.com/mehrdad-dd/multilingual-chatbot-project) |
 
 ---
 
@@ -37,7 +37,7 @@ Here you can find my projects categorized by skill area.
 | Project | Description | Demo / Image | Repo |
 |---------|------------|--------------|------|
 | 🐍 Python Automation | Scripts and automation workflows | ![demo](assets/automation/python-demo.gif) | [Repo](https://github.com/mehrdad-dd/python-automation) |
-| ⚡ Ansible / PowerShell | Server and workflow automation | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible-project) |
+| ⚡ Ansible / PowerShell | Server and workflow automation | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible_dev) |
 
 ---
 
