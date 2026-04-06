@@ -1,30 +1,3 @@
----
-layout: home
-title: "Welcome to My Portfolio"
-permalink: /
----
-
-# 🚀 Welcome to My Professional Portfolio
-
-Here are my projects organized by categories. Click on each project to see details.
-
-{% assign grouped_projects = site.projects | group_by: "category" %}
-
-{% for group in grouped_projects %}
-## {{ group.name | capitalize }} Projects
-
-{% for project in group.items %}
-### {{ project.title }}
-![demo]({{ project.image }})
-**Description:** {{ project.description }}  
-[View Repository]({{ project.repo }})
-
-{% endfor %}
-{% endfor %}
-
-layout: default
-title: "My Portfolio"
----
 
 # 🚀 Welcome to My Professional Portfolio
 
