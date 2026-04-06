@@ -50,6 +50,15 @@ Here you can find my projects categorized by skill area.
 
 ---
 
+## VPN Projects
+
+| Project | Description | Demo / Image | Repo |
+|---------|------------|--------------|------|
+| v2ray-reality Project | v2ray-reality Project | ![demo](assets/vpn/v2ray-reality-demo.gif) | [Repo](https://github.com/mehrdad-dd/vpn) |
+| wireguard Project | wireguard Project | ![demo](assets/vpn/wireguard-demo.gif) | [Repo](https://github.com/mehrdad-dd/vpn) |
+
+---
+
 ### 🔗 Notes
 
 - Each project has its **own repository**.
