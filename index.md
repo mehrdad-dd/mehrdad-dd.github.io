@@ -39,7 +39,8 @@ Here you can find my projects categorized by skill area.
 |---------|------------|--------------|------|
 | 🐍 Python Automation | Scripts and automation workflows | ![demo](assets/automation/python-demo.gif) | [Repo](https://github.com/mehrdad-dd/python-automation) |
 | ⚡ Ansible / PowerShell | Server and workflow automation | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible_dev) |
-| ⚡ Ansible | Educational Project | ![demo](assets/automation/ansible-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible_intro) |
+| ⚡ Ansible | Educational Project | ![demo](assets/automation/ansible2-demo.gif) | [Repo](https://github.com/mehrdad-dd/ansible_intro) |
+
 ---
 
 ## 🌐 Web Projects
