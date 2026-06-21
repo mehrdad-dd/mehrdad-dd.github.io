@@ -2,6 +2,7 @@ Welcome to My Professional Portfolio
 
 Here you can find my projects categorized by skill area.
 
+
 ---
 
 ## 🧠 AI Projects
