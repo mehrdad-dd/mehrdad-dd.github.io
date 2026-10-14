@@ -11,4 +11,3 @@ Categories:
 
 Each project has its own repository. Visit the GitHub Pages site for a **visual portfolio**:  
 [https://my-name.github.io](https://mehrdad-dd.github.io) 
-
